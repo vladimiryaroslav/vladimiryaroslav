@@ -41,21 +41,4 @@ I focus on building websites that feel great, look sharp, and solve real problem
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladimiryaroslav&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimiryaroslav&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://vladweb.xyz"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
 ### ✨ “Great design is intelligence made visible.”
