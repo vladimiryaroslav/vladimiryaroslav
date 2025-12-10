@@ -33,12 +33,3 @@ I focus on building websites that feel great, look sharp, and solve real problem
 - Linux / Shell
 
 ---
-
-## 📌 Featured Projects
-- ⭐ **Modern Portfolio Website** – Sleek and animated personal portfolio  
-- 🏷️ **Landing Page Templates** – Clean, responsive UI layouts  
-- 🧩 **Component Library** – Reusable UI components for fast prototyping  
-
----
-
-### ✨ “Great design is intelligence made visible.”
