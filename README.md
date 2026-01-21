@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm <strong>Xryn</strong> 👋</h1>
 <h3 align="center">Web Designer • Web Developer</h3>
+<h3 align="center">vladweb.xyz • xryn.site</h3>
 
 ---
 
