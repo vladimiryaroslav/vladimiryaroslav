@@ -23,10 +23,6 @@ I focus on building websites that feel great, look sharp, and solve real problem
 - React, Next.js  
 - Tailwind CSS, Framer Motion  
 
-### **Design**
-- Figma  
-- Photoshop / XD  
-- Responsive design • Accessibility  
 
 ### **Other**
 - Git & GitHub  
