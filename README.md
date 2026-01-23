@@ -35,7 +35,7 @@
 
 <div class="section">
   <h2>📫 Connect With Me</h2>
-  <p>💬 Discord: <a href="https://discord.com/users/YOUR_DISCORD_ID">YourDiscord#1234</a></p>
+  <p>💬 Discord: <a href="https://discord.com/users/1381370596335812699">xryn4</a></p>
 </div>
 
 ---
