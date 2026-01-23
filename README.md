@@ -1,32 +1,52 @@
-<h1 align="center">Hi, I'm <strong>Xryn</strong> 👋</h1>
-<h3 align="center">Web Designer • Web Developer</h3>
-<h3 align="center">https://vladweb.xyz • https://xryn.site</h3>
+<!-- README.md -->
+
+<!-- Link to external CSS (for GitHub Pages or local preview) -->
+<link rel="stylesheet" href="styles.css">
+
+<div class="profile-header">
+  <h1>👋 Hello, I'm Vladimir</h1>
+  <p>Web Developer | Python Enthusiast | Digital Creator</p>
+</div>
 
 ---
 
-## 🚀 About Me
-I’m a passionate **web designer & developer** who loves crafting clean, modern, and performant digital experiences.  
-I focus on building websites that feel great, look sharp, and solve real problems.
+<div class="section">
+  <h2>🌐 Websites</h2>
+  <ul>
+    <li><strong>Portfolio & Projects:</strong> <a href="https://vladweb.xyz">vladweb.xyz</a> – Showcases my web development & Python projects</li>
+    <li><strong>Profile & Links Hub:</strong> <a href="https://xryn.site">xryn.site</a> – Quick access to my links & contact info</li>
+  </ul>
+</div>
 
-- 🎨 UI/UX design & modern web aesthetics  
-- 💻 Building sleek front-end experiences  
-- 🌱 Currently exploring **Next.js**, **UI/UX systems**, and **motion design**  
-- 🤝 Open to collaborations on creative and technical projects  
+---
+
+<div class="section">
+  <h2>💻 Skills</h2>
+  <div class="badges">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
-
-### **Frontend**
-- HTML5, CSS3, Sass  
-- JavaScript (ES6+), TypeScript  
-- React, Next.js  
-- Tailwind CSS, Framer Motion  
-
-
-### **Other**
-- Git & GitHub  
-- Node.js  
-- Linux / Shell
+<div class="section">
+  <h2>📫 Connect With Me</h2>
+  <p>💬 Discord: <a href="https://discord.com/users/YOUR_DISCORD_ID">YourDiscord#1234</a></p>
+</div>
 
 ---
+
+<div class="section">
+  <h2>✨ Fun Fact</h2>
+  <p>I love building digital projects that are both functional and visually appealing. Think of me as a mix of code wizard and designer!</p>
+</div>
+
+---
+
+<footer>
+  <p>© 2026 Vladimir | Crafted with 💜 using HTML, CSS & GitHub Markdown</p>
+</footer>
