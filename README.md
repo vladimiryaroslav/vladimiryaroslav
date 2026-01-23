@@ -42,7 +42,7 @@
 
 <div class="section">
   <h2>✨ Fun Fact</h2>
-  <p>I love building digital projects that are both functional and visually appealing. Think of me as a mix of code wizard and designer!</p>
+  <p>I love building digital projects that are both functional and visually appealing.</p>
 </div>
 
 ---
