@@ -48,5 +48,5 @@
 ---
 
 <footer>
-  <p>© 2026 Vladimir | Crafted with 💜 using HTML, CSS & GitHub Markdown</p>
+  <p>© 2026 Vladimir</p>
 </footer>
