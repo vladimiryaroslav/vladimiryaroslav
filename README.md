@@ -20,7 +20,7 @@
 ---
 
 ## 📫 Connect With Me
-- **Discord:** [xryn0855](https://discord.com/users/1495216497537056890)
+- **Discord:** [ub57](https://discord.com/users/485905924779671573)
 
 ---
 
